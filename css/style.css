@@ -2692,7 +2692,9 @@ font-size:45px;
 	font-size:25px;
 	margin-bottom: 0;
 	margin-top: 15px;
+	line-height: 25px;
 	}
 .content h3{
+	margin-top: 15px;
 	font-size:35px;
 	}
