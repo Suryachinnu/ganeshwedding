@@ -2661,7 +2661,7 @@ ul.social-icons li a{
 .content{
 	display: grid;
 	align-items: center;
-	height:300px;
+	min-height:300px;
 }
 .content h5{
 font-size:45px;
